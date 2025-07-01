@@ -56,9 +56,9 @@ Navigate your car through increasingly difficult traffic while collecting points
 1. **Clone or download** the `terminal_racer.py` file
 2. **Open Command Prompt or PowerShell** in the file's directory
 3. **Run the game**:
-      cmd 
+     ```cmd 
     python terminal_racer.py
-
+    ``` 
 
 ## 🏗 Code Architecture
 
