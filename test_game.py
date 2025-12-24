@@ -14,7 +14,7 @@ try:
     print("✅ All imports successful!")
     
     # Test class instantiation (without curses)
-    print("Classes defined correctly:")
+    print("✅ Classes defined correctly:")
     print(f"  - GameState enum: {list(GameState)}")
     print(f"  - Obstacle dataclass: {Obstacle.__annotations__}")
     print(f"  - Player dataclass: {Player.__annotations__}")
